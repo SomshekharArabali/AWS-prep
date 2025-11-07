@@ -13,6 +13,22 @@ This is a comprehensive preparation platform designed to help users master the A
 *   **Mobile Responsive**: Optimized for seamless use across various devices.
 *   **Detailed Review**: After completing quizzes, review questions, your answers, and the correct solutions.
 
+## Screenshots
+
+Replace these image links with your actual screenshot URLs.
+
+### Home Page
+![Home Page Screenshot](public/img/Homepage.jpg)
+
+### Modules Overview
+![Modules Overview Screenshot](public/img/Modules.jpg)
+
+### Question Set
+![Question Set Screenshot](public/img/Questionsets.jpg)
+
+### Exam Simulation
+![Exam Simulation Screenshot](public/img/Examsimulation.jpg)
+
 ## Tech Stack
 
 This application is built using a modern web development stack to ensure a robust, scalable, and user-friendly experience:
@@ -44,7 +60,7 @@ Follow these steps to set up and run the project locally:
     First, clone the project repository to your local machine using Git:
     ```bash
     git clone <your-repository-url>
-    cd AWS-prep
+    cd aws-cloud-practitioner-prep
     ```
     Replace `<your-repository-url>` with the actual URL of your GitHub repository.
 
