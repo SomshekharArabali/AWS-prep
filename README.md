@@ -13,17 +13,17 @@ This is a comprehensive preparation platform designed to help users master the A
 *   **Mobile Responsive**: Optimized for seamless use across various devices.
 *   **Detailed Review**: After completing quizzes, review questions, your answers, and the correct solutions.
 
-## Screenshots
+## Preview
 
 
 ### Home Page
-![Home Page Screenshot](public/img/Homepage.jpg)
+![Home Page Screenshot](public/img/Home.gif)
 
 ### Modules Overview
-![Modules Overview Screenshot](public/img/Modules.jpg)
+![Modules Overview Screenshot](public/img/Modules.gif)
 
 ### Question Set
-![Question Set Screenshot](public/img/Questionsets.jpg)
+![Question Set Screenshot](public/img/Questions.gif)
 
 ### Exam Simulation
 ![Exam Simulation Screenshot](public/img/Examsimulation.jpg)
